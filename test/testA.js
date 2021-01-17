@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
 
-it('test2', function () {
+it('testA', function () {
     expect(true).to.equal(true);
 });
